@@ -142,5 +142,5 @@ If you've finished the course, please add your name and one of your social pages
 | Hadis Haghiri | [GitHub](https://github.com/Hadis-Haghiri) |
 | Yaghoub Jalali | [Quera](https://quera.ir/profile/y_jalali) |
 | Koorosh Karkehabadi | [GitHub](https://github.com/koorosh-k98) |
-
+| Mahdi Asadi | [GitHub](https://github.com/Mahdi-Asadi) | [Linkedin](https://www.linkedin.com/in/mahdi-asadi-005063195/) |
 
